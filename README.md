@@ -1,6 +1,13 @@
 # CSharpLiveProject
 2 week project completing stories for a Theatre company.
 
+Technologies we interacted with:
+-ASP.Net
+-MVC
+-Entity Framework
+-Bootstrap
+
+
 As my final project before completing my courses at The Tech Academy, this entailed utilizing multiple languages, concepts, and interactions between database tables and front-end facing tasks. Examples of some of the stories are listed below.
 
 CREATING ENTITY MODEL
