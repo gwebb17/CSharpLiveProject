@@ -70,7 +70,7 @@ STYLING INDEX PAGE
             var suffHazard = ((RentalEquipment)item).SuffocationHazard;
             var chokHazard = ((RentalEquipment)item).ChokingHazard;
 
-        <!--untab below part leaving this way while working-->
+        
         <div class="col rental-index--rentalcolumns">
             <div class="card rental-index--card1A">
                 <div class="rental-index--innerphotocontainer1A">
