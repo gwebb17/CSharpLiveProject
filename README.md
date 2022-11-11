@@ -8,8 +8,7 @@ CREATING ENTITY MODEL
 -Added two additional classes that inherit from Rental (parent class)
 -Scaffolded CRUD pages to interact with the controller for various methods (Create, Edit, Delete, etc)
 
-```public ActionResult Create([Bind(Include = "RentalId,RentalName,RentalCost,FlawsAndDamages")] Rental rental, int? PurchasePrice, bool SuffocationHazard, bool ChokingHazard, int RoomNumber
-            , int MaxOccupancy, int SquareFootage)
+```public ActionResult Create([Bind(Include = "RentalId,RentalName,RentalCost,FlawsAndDamages")] Rental rental, int? PurchasePrice, bool SuffocationHazard, bool ChokingHazard, int RoomNumber, int MaxOccupancy, int SquareFootage)
         { 
            
             //Logic for RentalEquipment
