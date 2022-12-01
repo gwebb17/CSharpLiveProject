@@ -1,4 +1,4 @@
-# CSharpLiveProject
+#Theatre Rental Project (C#)
 2 week project completing stories for a Theatre company.
 
 Technologies we interacted with:
